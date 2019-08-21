@@ -3,7 +3,7 @@ package com.qc.principle.inversion.improve;
 /**
  * @author qc
  * @date 2019/8/21
- * @description
+ * @description 依赖倒置
  * @project JavaDesignMode
  */
 
