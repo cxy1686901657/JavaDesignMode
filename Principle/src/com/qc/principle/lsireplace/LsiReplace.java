@@ -3,7 +3,7 @@ package com.qc.principle.lsireplace;
 /**
  * @author qc
  * @date 2019/8/21
- * @description
+ * @description 里氏替换
  * @project JavaDesignMode
  */
 
