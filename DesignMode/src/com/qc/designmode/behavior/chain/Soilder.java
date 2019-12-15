@@ -12,14 +12,13 @@ public class Soilder extends Handler {
     private int type=0;
     private Handler handler;
 
-
     @Override
     public void handler(String msg, int type) {
         if(type==this.type){
             System.out.println("Soilder handler");
             return;
         }
-        this.handler.handler(msg, type);
+        this.handler.handler(msg,type);
         System.out.println("Soilder dont handler");
     }
 
